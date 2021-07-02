@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Clicker+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
 body{
     background: url("Background.jpg");
     background-position: center;
@@ -9,6 +13,7 @@ body{
     border: 1px solid whitesmoke;
     height: 96vh;
     position: relative;
+    border-bottom: dotted whitesmoke;
 }
 /* Designing for scroll-bar */
 ::-webkit-scrollbar {
@@ -37,6 +42,7 @@ body{
 .Astro{
     position: absolute;
     left: 35%;
+    top: 10%;
     overflow-x: hidden;
 }
 .Scroll_icon{
@@ -48,4 +54,147 @@ body{
     border: 1px solid whitesmoke;
     height: 96vh;
     position: relative;
+    border-top: dotted whitesmoke;
+    border-bottom: dotted whitesmoke;
+}
+.Unicorn_1{
+    position: absolute;
+    top: -1%;
+    transform: rotate(-45deg);
+}
+.Cele_Cone{
+    position: absolute;
+    top: 37%;
+    left: 5%;
+}
+.Image1{
+    position: absolute;
+    top: 15%;
+    left: 75%;
+    height: 75%;
+    transform: rotate(-30deg);
+    z-index: -1;
+}
+.Smile{
+    position: absolute;
+    left: 78%;
+    transform: rotate(-30deg);
+    top: 35%;
+}
+.Page_3{
+    border: 1px solid whitesmoke;
+    height: 96vh;
+    position: relative;
+    border-top: dotted whitesmoke;
+    border-bottom: dotted whitesmoke;
+}
+.Anime_1{
+    position: absolute;
+    left: 25%;
+}
+.Phone{
+    position: absolute;
+    left: 17%;
+    height: 85%;
+    top: 7%;
+    transform: rotate(-25deg);
+}
+.Ghost_Buster{
+    position: absolute;
+    transform: rotate(-25deg);
+    top: 17%;
+    left: 2%;
+    overflow-y: hidden;
+}
+.Page_4{
+    border: 1px solid whitesmoke;
+    height: 96vh;
+    position: relative;
+    border-top: dotted whitesmoke;
+    border-bottom: dotted whitesmoke;
+}
+.Unicorn_2{
+    position: absolute;
+    right: 25%;
+}
+.Text_1{
+    position: absolute;
+    font-family: 'Clicker Script', cursive;
+    color: whitesmoke;
+    font-size: 200%;
+    width: 50%;
+    top: 10%;
+    left: 45%;
+}
+.Page_5{
+    border: 1px solid whitesmoke;
+    height: 96vh;
+    position: relative;
+    border-top: dotted whitesmoke;
+    border-bottom: dotted whitesmoke;
+}
+.Text_2{
+    position: absolute;
+    border: 1px solid whitesmoke;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 90%;
+    width: 75%;
+    top: 10.25%;
+    left: 5%;
+    size: 100%;
+    color: whitesmoke;
+    padding-left: 1%;
+
+}
+.Anime_2{
+    position: absolute;
+    transform: rotate(90deg);
+    top: 25%;
+    left: 63.10%;
+}
+.Page_6{
+    border: 1px solid whitesmoke;
+    height: 96vh;
+    position: relative;
+    border-top: dotted whitesmoke;
+    border-bottom: dotted whitesmoke;
+}
+.Text_3{
+    position: absolute;
+    font-size: 500%;
+    left: 10%;
+    top: 40%;
+    text-decoration: none;
+    font-family: 'Press Start 2P', cursive;
+    color: whitesmoke;
+    width: 50%;
+}
+.Github_1{
+    position: absolute;
+    left: 80%;
+    top: 10%;
+    transform: rotate(45deg);
+}
+.Github_2{
+    position: absolute;
+    top: 10%;
+    left: 25%;
+}
+.Page_7{
+    border: 1px solid whitesmoke;
+    height: 96vh;
+    position: relative;
+    border-top: dotted whitesmoke;
+}
+.Bye{
+    font-family: 'Zen Tokyo Zoo', cursive;
+    color: whitesmoke;
+    font-size: 1000%;
+    position: absolute;
+    top: 13%;
+    left: 10%;
+}
+.Bye_2{
+    position: absolute;
+    left: 25%;
 }
