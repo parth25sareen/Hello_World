@@ -59,13 +59,13 @@ body{
 }
 .Unicorn_1{
     position: absolute;
-    top: -1%;
+    top: 10%;
     transform: rotate(-45deg);
 }
 .Cele_Cone{
     position: absolute;
-    top: 37%;
-    left: 5%;
+    top: 50%;
+    left: -2%;
 }
 .Image1{
     position: absolute;
@@ -77,9 +77,9 @@ body{
 }
 .Smile{
     position: absolute;
-    left: 78%;
+    left: 82%;
     transform: rotate(-30deg);
-    top: 35%;
+    top: 45%;
 }
 .Page_3{
     border: 1px solid whitesmoke;
@@ -102,8 +102,8 @@ body{
 .Ghost_Buster{
     position: absolute;
     transform: rotate(-25deg);
-    top: 17%;
-    left: 2%;
+    top: 25%;
+    left: -0.5%;
     overflow-y: hidden;
 }
 .Page_4{
@@ -123,7 +123,7 @@ body{
     color: whitesmoke;
     font-size: 200%;
     width: 50%;
-    top: 10%;
+    top: 30%;
     left: 45%;
 }
 .Page_5{
@@ -137,9 +137,9 @@ body{
     position: absolute;
     border: 1px solid whitesmoke;
     font-family: 'Nanum Pen Script', cursive;
-    font-size: 90%;
-    width: 75%;
-    top: 10.25%;
+    font-size: 127%;
+    width: 65%;
+    top: 13%;
     left: 5%;
     size: 100%;
     color: whitesmoke;
@@ -149,8 +149,8 @@ body{
 .Anime_2{
     position: absolute;
     transform: rotate(90deg);
-    top: 25%;
-    left: 63.10%;
+    top: -33%;
+    left: 64.8%;
 }
 .Page_6{
     border: 1px solid whitesmoke;
@@ -191,7 +191,7 @@ body{
     color: whitesmoke;
     font-size: 1000%;
     position: absolute;
-    top: 13%;
+    top: 27%;
     left: 10%;
 }
 .Bye_2{
